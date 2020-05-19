@@ -1,0 +1,83 @@
+/* CSS DOCUMENT*/
+
+h1 {
+	color: rgb(36, 31, 71);
+	text-transform:uppercase;
+	font-family: josefin-sans;
+	font-weight:bolder;
+	padding-bottom:0.5em;
+	text-align: center;
+}
+
+h2 {
+	text-transform:lowercase;
+	font-family:sans-serif;
+	font-weight: bold;
+}
+
+h3{
+	font-family:josefin-sans;
+	text-transform:uppercase;
+	font-weight:bold;	
+	text-align:inherit;
+}
+
+nav {
+	float: right;
+	padding-top: 3em;
+}
+
+nav ul {
+	padding: 0;
+	
+}
+
+nav ul li{
+	list-style: none;
+	display: inline;
+	margin-right: 2em;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: rgb: (0,0,225);
+}
+
+
+
+
+img {
+	max-width: 90%;
+	height:auto;
+}
+img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pagecontent {
+	font-family:josefin-sans;
+	text-align: center;
+
+}
+
+.price {
+	font-family:josefin-sans;
+	font-style: italic;
+	font-weight: 400;
+
+}
+.description {
+	font-family:josefin-sans;
+
+}
+
+h4{
+	font-family:josefin-sans;
+	font-style:bold;
+}
